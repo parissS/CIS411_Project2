@@ -1,4 +1,4 @@
-﻿@model CIS411_Project.Core.Models.Books
+﻿@model IEnumerable<CIS411_Project.Core.Models.Books>
 
 @{
     ViewBag.Title = "Details";
@@ -36,7 +36,7 @@
 
     </tr>
 
-@foreach (var item in Model) {
+@*@foreach (var item in Model) {
     <tr>
 
         <td>
@@ -64,6 +64,6 @@
             @Html.ActionLink("Books", "Details", new { /* id=item.PrimaryKey */ }) 
         </td>
     </tr>
-}
+}*@
 
 </table>

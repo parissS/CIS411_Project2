@@ -109,6 +109,7 @@ LOGIN
 
     #login a.username {
         background: none;
+        border: none;
         margin: 0;
         padding: 0;
         text-decoration: underline;
@@ -193,4 +194,12 @@ th, td {
     overflow: hidden;
     width: 300px;
     text-align:center;
+}
+
+#hellouser {
+    font-size: 16px;
+    clear:both;
+    padding-bottom: 20px;
+    text-align:right;
+    padding-left: 10px;
 }
