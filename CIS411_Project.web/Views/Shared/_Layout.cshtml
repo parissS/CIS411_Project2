@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title - TextBook Trader</title>
     <link href="~/Content/stylesheet.css" rel="stylesheet" />
+    <script type="text/javascript" src="~/Scripts/jquery-1.9.1.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#menu li a").mouseover(function () {
+                $(this).animate({ left: '5px' }, 'fast');
+            });
+            $("#menu li a").mouseleave(function () {
+                $(this).animate({ left: '' }, 'fast');
+            });
+        })
+    </script>
 </head>
 <body>
     <header>
