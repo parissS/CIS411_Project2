@@ -60,6 +60,8 @@ namespace CIS411_Project.Core.Services
                 book.USER_ID = b2.USER_ID;
                 book.BOOK_AUTHOR = b2.BOOK_AUTHOR;
                 book.BOOK_EDITION = b2.BOOK_EDITION;
+                book.ISBN10 = b2.ISBN10;
+                book.ISBN13 = b2.ISBN13;
                 book.BOOK_PRICE = b2.BOOK_PRICE;
                 book.BOOK_PUBLISHER = b2.BOOK_PUBLISHER;
                 book.CATEGORY_ID = b2.CATEGORY_ID;

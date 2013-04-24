@@ -65,8 +65,16 @@
             </div>
             <div class="editor-field">
                 @Html.TextBoxFor(u => u.CONDITION_ID)
-                @Html.ValidationMessageFor(u => u.CONDITION_ID) 
+                @Html.ValidationMessageFor(u => u.CONDITION_ID)
             </div>
+               <div class="editor-label">
+                @Html.LabelFor(u => u.USER_ID)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.USER_ID)
+                @Html.ValidationMessageFor(u => u.USER_ID)
+            </div>
+
             <input type="submit" value="Submit Book" />
         </fieldset>
     </div>
