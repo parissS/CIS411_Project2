@@ -43,13 +43,6 @@ C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Projec
 C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.dal\bin\Debug\EntityFramework.xml
 C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.dll
 C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.dll.config
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\EntityFramework.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\EntityFramework.xml
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.pdb
 C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.dll.config
 C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.dll
 C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.pdb
@@ -58,3 +51,10 @@ C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\bin\Debug\EntityFramework.xm
 C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.csprojResolveAssemblyReference.cache
 C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.dll
 C:\Users\Ermania\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.dll.config
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\CIS411_Project.dal.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\EntityFramework.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\bin\Debug\EntityFramework.xml
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.dal\obj\Debug\CIS411_Project.dal.pdb

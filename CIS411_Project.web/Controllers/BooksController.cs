@@ -15,7 +15,8 @@ namespace CIS411_Project.web.Controllers
 
         public ActionResult Index()
         {
-            return View();
+            var db = new BookService();
+            return View(db.listBooks());
         }
 
         public ActionResult Details(int bookId)
@@ -25,5 +26,18 @@ namespace CIS411_Project.web.Controllers
                    
         }
 
-    }
+        [Authorize]
+        public ActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult CreateBook(Books book)
+        {
+            BookService service = new BookService();
+            service.insertBooks(book);
+            return RedirectToAction("Index", "Books");
+        }
+    }   
+         
 }

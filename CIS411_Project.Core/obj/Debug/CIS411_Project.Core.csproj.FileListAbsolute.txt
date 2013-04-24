@@ -65,16 +65,6 @@ C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Projec
 C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.csprojResolveAssemblyReference.cache
 C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.dll
 C:\Users\Jordan\Desktop\U of L school dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.dll.config
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.dal.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\EntityFramework.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.dal.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\EntityFramework.xml
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.csprojResolveAssemblyReference.cache
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.pdb
 E:\U of L Dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.dll.config
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.csprojResolveAssemblyReference.cache
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.dll
@@ -86,3 +76,13 @@ C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.core\b
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.core\bin\Debug\EntityFramework.dll
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.dal.pdb
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.core\bin\Debug\EntityFramework.xml
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.dll.config
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.core.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.dal.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\EntityFramework.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\CIS411_Project.dal.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\bin\Debug\EntityFramework.xml
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.core\obj\Debug\CIS411_Project.core.pdb

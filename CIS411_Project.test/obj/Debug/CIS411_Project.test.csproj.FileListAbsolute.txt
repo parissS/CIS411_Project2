@@ -39,18 +39,6 @@ E:\U of L Dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Pro
 E:\U of L Dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.csprojResolveAssemblyReference.cache
 E:\U of L Dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.dll
 E:\U of L Dropbox\Dropbox\Spring 2013\CIS 411\Project\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.dll.config
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.core.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.dal.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\EntityFramework.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.core.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.dal.pdb
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\EntityFramework.xml
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.csprojResolveAssemblyReference.cache
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.dll
-C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.pdb
 C:\Users\xerohour\Documents\GitHub\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.dll.config
 C:\Users\xerohour\Documents\GitHub\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.dll
 C:\Users\xerohour\Documents\GitHub\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.pdb
@@ -99,3 +87,15 @@ C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.test\b
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.csprojResolveAssemblyReference.cache
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.dll
 C:\Users\Jon\Documents\cis411_projectfinal\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.dll.config
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.test.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.core.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.dal.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\EntityFramework.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.core.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\CIS411_Project.dal.pdb
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\bin\Debug\EntityFramework.xml
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.dll
+C:\Users\Scott\Documents\Code_Projects\Repository\CIS411_Project2\CIS411_Project.test\obj\Debug\CIS411_Project.test.pdb

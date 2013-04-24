@@ -1,0 +1,73 @@
+﻿@model  CIS411_Project.Core.Models.Books
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()   
+    @Html.ValidationSummary()
+    <div>
+        <fieldset>
+            <legend>Create</legend>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.BOOK_TITLE)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.BOOK_TITLE)
+                @Html.ValidationMessageFor(u => u.BOOK_TITLE)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.BOOK_EDITION)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.BOOK_EDITION)
+                @Html.ValidationMessageFor(u => u.BOOK_EDITION)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.BOOK_AUTHOR)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.BOOK_AUTHOR)
+                @Html.ValidationMessageFor(u => u.BOOK_AUTHOR)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.BOOK_DESC)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.BOOK_DESC)
+                @Html.ValidationMessageFor(u => u.BOOK_DESC)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.BOOK_PUBLISHER)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.BOOK_PUBLISHER)
+                @Html.ValidationMessageFor(u => u.BOOK_PUBLISHER)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.BOOK_PRICE)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.BOOK_PRICE)
+                @Html.ValidationMessageFor(u => u.BOOK_PRICE)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.CATEGORY_ID)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.CATEGORY_ID)
+                @Html.ValidationMessageFor(u => u.CATEGORY_ID)
+            </div>
+            <div class="editor-label">
+                @Html.LabelFor(u => u.CONDITION_ID)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(u => u.CONDITION_ID)
+                @Html.ValidationMessageFor(u => u.CONDITION_ID) 
+            </div>
+            <input type="submit" value="Submit Book" />
+        </fieldset>
+    </div>
+}
